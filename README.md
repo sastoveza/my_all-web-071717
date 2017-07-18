@@ -1,5 +1,5 @@
 # Code Along: Building the `all?` method 
-
+# Hey
 ##Objectives
 * Continue to practice using yield and blocks
 * Gain a deeper understanding of `#all?`
